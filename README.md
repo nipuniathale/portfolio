@@ -9,7 +9,7 @@
 *Tracing patterns in data, building intelligence for tomorrow.*
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-dnkathale--portfolio.netlify.app-C26D5A?style=for-the-badge&labelColor=3B241C)](https://dnkathale-portfolio.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-nipuni--2002-6E0D25?style=for-the-badge&logo=github&labelColor=3B241C)](https://github.com/nipuni-2002)
+[![GitHub](https://img.shields.io/badge/GitHub-nipuniathale-6E0D25?style=for-the-badge&logo=github&labelColor=3B241C)](https://github.com/nipuniathale)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Don_Nipuni_Athale-C26D5A?style=for-the-badge&logo=linkedin&labelColor=3B241C)](https://www.linkedin.com/in/nipuni-a-a5445b3b0/)
 
 ---
@@ -167,7 +167,7 @@ No code needed to add projects or publish blog posts. Just log in at `/admin`.
 |-|-|
 | 📧 Email | [dnkathale.work@gmail.com](mailto:dnkathale.work@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/nipuni-a-a5445b3b0](https://www.linkedin.com/in/nipuni-a-a5445b3b0/) |
-| 🐙 GitHub | [github.com/nipuni-2002](https://github.com/nipuni-2002) |
+| 🐙 GitHub | [github.com/nipuniathale](https://github.com/nipuniathale) |
 | 🌐 Portfolio | [dnkathale-portfolio.netlify.app](https://dnkathale-portfolio.netlify.app) |
 
 ---
